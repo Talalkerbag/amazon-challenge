@@ -8,7 +8,8 @@ function Header() {
         <div className='header'>
             <img 
                 className="header__logo"
-                src='https://logos-world.net/wp-content/uploads/2020/04/Amazon-Symbol.jpg'
+                src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Symbol.jpg"
+                alt="Amazon logo"
             />
 
             <div
